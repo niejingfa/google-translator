@@ -9,7 +9,7 @@ pip3.9 install google_trans_new
 ```
 ## 3. 测试
 ```shell
-$ python test.py
+$ python3 test.py
 输出： 测试
 ```
 ## 4. 代码
